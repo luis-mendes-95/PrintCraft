@@ -1,0 +1,30 @@
+/* styles/footer.css */
+.footerBase {
+  background-color: #250000;
+  padding: 10px;
+  text-align: center;
+}
+
+.footerBase p {
+  font-size: 14px;
+  color: #777;
+  margin: 0;
+}
+
+.footerBase .footerText {
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.footerBase .footerButton {
+  background-color: #fff;
+  color: #250000;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.footerBase .footerButton:hover {
+  background-color: #e6e6e6;
+}

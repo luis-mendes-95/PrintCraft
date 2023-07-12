@@ -13,6 +13,10 @@ export const PrintDashboardBase = styled.main`
   gap: 20px;
   padding: 20px;
 
+  .sizeRecommended{
+    font-size: 8pt;
+  }
+
   .divProductTemplate {
   display: flex;
   justify-content: center;
